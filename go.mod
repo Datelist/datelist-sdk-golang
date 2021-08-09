@@ -1,3 +1,3 @@
-module github.com/datelist/datelist-sdk-golang/v1.0.0
+module github.com/datelist/datelist-sdk-golang
 
 go 1.16
